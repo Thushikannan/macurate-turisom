@@ -1,0 +1,461 @@
+2020-03-31 11:12:50 INFO  TestBase:25 - Initiate Browser
+2020-03-31 11:12:51 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SKIP method=UiAutomationABTestPage.testVerifyHomePage()[pri:0, instance:tests.UiAutomationABTestPage@67b6d4ae] output={null}]
+2020-03-31 11:12:51 INFO  TestBase:46 - Closing Browser
+2020-03-31 11:14:20 INFO  TestBase:25 - Initiate Browser
+2020-03-31 11:14:21 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SKIP method=UiAutomationABTestPage.testVerifyHomePage()[pri:0, instance:tests.UiAutomationABTestPage@6df97b55] output={null}]
+2020-03-31 11:14:21 INFO  TestBase:46 - Closing Browser
+2020-03-31 11:15:42 INFO  TestBase:25 - Initiate Browser
+2020-03-31 11:16:02 INFO  TestBase:31 - Browser Initiated
+2020-03-31 11:16:02 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-03-31 11:16:02 INFO  HomePage:40 - Link /abtest Clicked
+2020-03-31 11:16:03 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SUCCESS method=UiAutomationABTestPage.testVerifyHomePage()[pri:0, instance:tests.UiAutomationABTestPage@6df97b55] output={null}]
+2020-03-31 11:16:03 INFO  TestBase:46 - Closing Browser
+2020-03-31 11:16:04 INFO  TestBase:48 - Browser Closed
+2020-03-31 12:46:28 INFO  TestBase:25 - Initiate Browser
+2020-03-31 12:46:38 INFO  TestBase:31 - Browser Initiated
+2020-03-31 12:46:38 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-03-31 12:46:39 INFO  HomePage:38 - Link /abtest Clicked
+2020-03-31 12:46:39 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SUCCESS method=UiAutomationABTestPage.testVerifyHomePage()[pri:1, instance:tests.UiAutomationABTestPage@1817d444] output={null}]
+2020-03-31 12:46:39 INFO  TestBase:46 - Closing Browser
+2020-03-31 12:46:40 INFO  TestBase:48 - Browser Closed
+2020-03-31 12:50:53 INFO  TestBase:25 - Initiate Browser
+2020-03-31 12:51:02 INFO  TestBase:31 - Browser Initiated
+2020-03-31 12:51:02 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-03-31 12:51:02 INFO  HomePage:38 - Link /abtest Clicked
+2020-03-31 12:51:03 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SUCCESS method=UiAutomationABTestPage.testVerifyHomePage()[pri:1, instance:tests.UiAutomationABTestPage@1725dc0f] output={null}]
+2020-03-31 12:51:03 INFO  TestBase:46 - Closing Browser
+2020-03-31 12:51:04 INFO  TestBase:48 - Browser Closed
+2020-03-31 13:26:55 INFO  TestBase:25 - Initiate Browser
+2020-03-31 13:27:04 INFO  TestBase:31 - Browser Initiated
+2020-03-31 13:27:04 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-03-31 13:27:04 INFO  HomePage:38 - Link /abtest Clicked
+2020-03-31 13:27:04 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SUCCESS method=UiAutomationABTestPage.testVerifyHomePage()[pri:1, instance:tests.UiAutomationABTestPage@74e52ef6] output={null}]
+2020-03-31 13:27:04 INFO  TestBase:46 - Closing Browser
+2020-03-31 13:27:05 INFO  TestBase:48 - Browser Closed
+2020-03-31 13:28:50 INFO  TestBase:25 - Initiate Browser
+2020-03-31 13:28:59 INFO  TestBase:31 - Browser Initiated
+2020-03-31 13:28:59 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-03-31 13:29:00 INFO  HomePage:38 - Link /abtest Clicked
+2020-03-31 13:29:00 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SUCCESS method=UiAutomationABTestPage.testVerifyHomePage()[pri:1, instance:tests.UiAutomationABTestPage@74e52ef6] output={null}]
+2020-03-31 13:29:00 INFO  TestBase:46 - Closing Browser
+2020-03-31 13:29:01 INFO  TestBase:48 - Browser Closed
+2020-03-31 13:34:53 INFO  TestBase:25 - Initiate Browser
+2020-03-31 13:35:00 INFO  TestBase:31 - Browser Initiated
+2020-03-31 13:35:00 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-03-31 13:35:01 INFO  HomePage:38 - Link /abtest Clicked
+2020-03-31 13:35:02 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SUCCESS method=UiAutomationABTestPage.testVerifyHomePage()[pri:1, instance:tests.UiAutomationABTestPage@6ed3ccb2] output={null}]
+2020-03-31 13:35:02 INFO  TestBase:46 - Closing Browser
+2020-03-31 13:35:03 INFO  TestBase:48 - Browser Closed
+2020-03-31 18:17:21 INFO  TestBase:25 - Initiate Browser
+2020-03-31 18:17:26 INFO  TestBase:31 - Browser Initiated
+2020-03-31 18:17:26 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-03-31 18:17:27 INFO  HomePage:38 - Link /abtest Clicked
+2020-03-31 18:17:27 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SUCCESS method=UiAutomationABTestPage.testVerifyHomePage()[pri:1, instance:tests.UiAutomationABTestPage@4116aac9] output={null}]
+2020-03-31 18:17:27 INFO  TestBase:46 - Closing Browser
+2020-03-31 18:17:28 INFO  TestBase:48 - Browser Closed
+2020-03-31 18:18:22 INFO  TestBase:25 - Initiate Browser
+2020-03-31 18:18:29 INFO  TestBase:31 - Browser Initiated
+2020-03-31 18:18:29 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-03-31 18:18:30 INFO  HomePage:38 - Link /abtest Clicked
+2020-03-31 18:18:41 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=FAILURE method=UiAutomationABTestPage.testVerifyHomePage()[pri:1, instance:tests.UiAutomationABTestPage@6ed3ccb2] output=<a href='/home/theva/Documents/Ui-Automation-Project/WebUiAutomationFramework/target/surefire-reports/failure_screenshots/testVerifyHomePage_31_03_2020_06_18_40.png'> <img src='/home/theva/Documents/Ui-Automation-Project/WebUiAutomationFramework/target/surefire-reports/failure_screenshots/testVerifyHomePage_31_03_2020_06_18_40.png' height='100' width='100'/> </a>]
+2020-03-31 18:18:41 INFO  TestBase:46 - Closing Browser
+2020-03-31 18:18:42 INFO  TestBase:48 - Browser Closed
+2020-03-31 18:51:19 INFO  TestBase:25 - Initiate Browser
+2020-03-31 18:51:28 INFO  TestBase:31 - Browser Initiated
+2020-03-31 18:51:28 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-03-31 18:51:28 INFO  HomePage:38 - Link /abtest Clicked
+2020-03-31 18:51:29 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SUCCESS method=UiAutomationABTestPage.testVerifyHomePage()[pri:1, instance:tests.UiAutomationABTestPage@6ed3ccb2] output={null}]
+2020-03-31 18:51:29 INFO  TestBase:46 - Closing Browser
+2020-03-31 18:51:30 INFO  TestBase:48 - Browser Closed
+2020-03-31 19:39:41 INFO  TestBase:25 - Initiate Browser
+2020-03-31 19:39:47 INFO  TestBase:31 - Browser Initiated
+2020-03-31 19:39:47 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-03-31 19:39:48 INFO  HomePage:38 - Link /abtest Clicked
+2020-03-31 19:39:48 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SUCCESS method=UiAutomationABTestPage.testVerifyHomePage()[pri:1, instance:tests.UiAutomationABTestPage@302552ec] output={null}]
+2020-03-31 19:39:48 INFO  TestBase:46 - Closing Browser
+2020-03-31 19:39:50 INFO  TestBase:48 - Browser Closed
+2020-03-31 19:53:43 INFO  TestBase:25 - Initiate Browser
+2020-03-31 19:53:52 INFO  TestBase:31 - Browser Initiated
+2020-03-31 19:53:52 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-03-31 19:53:53 INFO  HomePage:38 - Link /abtest Clicked
+2020-03-31 19:53:53 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SUCCESS method=UiAutomationABTestPage.testVerifyHomePage()[pri:1, instance:tests.UiAutomationABTestPage@302552ec] output={null}]
+2020-03-31 19:53:53 INFO  TestBase:46 - Closing Browser
+2020-03-31 19:53:54 INFO  TestBase:48 - Browser Closed
+2020-03-31 19:56:17 INFO  TestBase:25 - Initiate Browser
+2020-03-31 19:56:26 INFO  TestBase:31 - Browser Initiated
+2020-03-31 19:56:26 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-03-31 19:56:27 INFO  HomePage:38 - Link /abtest Clicked
+2020-03-31 19:56:27 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SUCCESS method=UiAutomationABTestPage.testVerifyHomePage()[pri:1, instance:tests.UiAutomationABTestPage@302552ec] output={null}]
+2020-03-31 19:56:27 INFO  TestBase:46 - Closing Browser
+2020-03-31 19:56:28 INFO  TestBase:48 - Browser Closed
+2020-04-03 19:34:35 INFO  TestBase:25 - Initiate Browser
+2020-04-03 19:34:44 INFO  TestBase:31 - Browser Initiated
+2020-04-03 19:34:44 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-04-03 19:34:45 INFO  HomePage:38 - Link /abtest Clicked
+2020-04-03 19:34:45 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SUCCESS method=UiAutomationABTestPage.testVerifyHomePage()[pri:1, instance:tests.UiAutomationABTestPage@4e08711f] output={null}]
+2020-04-03 19:34:45 INFO  TestBase:46 - Closing Browser
+2020-04-03 19:34:46 INFO  TestBase:48 - Browser Closed
+2020-04-03 20:31:49 INFO  TestBase:25 - Initiate Browser
+2020-04-03 20:31:58 INFO  TestBase:31 - Browser Initiated
+2020-04-03 20:31:58 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-04-03 20:31:58 INFO  HomePage:38 - Link /abtest Clicked
+2020-04-03 20:31:59 INFO  TestBase:53 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SUCCESS method=UiAutomationTrainingBasicTest.testVerifyHomePage()[pri:1, instance:tests.UiAutomationTrainingBasicTest@3d285d7e] output={null}]
+2020-04-03 20:31:59 INFO  TestBase:46 - Closing Browser
+2020-04-03 20:32:00 INFO  TestBase:48 - Browser Closed
+2020-04-03 20:32:00 INFO  TestBase:25 - Initiate Browser
+2020-04-03 20:32:08 INFO  TestBase:31 - Browser Initiated
+2020-04-03 20:32:08 INFO  TestBase:41 - Test name: testVerifyHomePage2
+2020-04-03 20:32:08 INFO  TestBase:53 - Executed test case name:testVerifyHomePage2 Execution Results : [TestResult name=testVerifyHomePage2 status=SUCCESS method=UiAutomationTrainingBasicTest.testVerifyHomePage2()[pri:2, instance:tests.UiAutomationTrainingBasicTest@3d285d7e] output={null}]
+2020-04-03 20:32:08 INFO  TestBase:46 - Closing Browser
+2020-04-03 20:32:09 INFO  TestBase:48 - Browser Closed
+2020-04-03 20:32:09 INFO  TestBase:25 - Initiate Browser
+2020-04-03 20:32:16 INFO  TestBase:31 - Browser Initiated
+2020-04-03 20:32:16 INFO  TestBase:41 - Test name: testVerifyCheckBox
+2020-04-03 20:32:17 INFO  HomePage:38 - Link /checkboxes Clicked
+2020-04-03 20:32:18 INFO  TestBase:53 - Executed test case name:testVerifyCheckBox Execution Results : [TestResult name=testVerifyCheckBox status=FAILURE method=UiAutomationTrainingBasicTest.testVerifyCheckBox()[pri:3, instance:tests.UiAutomationTrainingBasicTest@3d285d7e] output=<a href='/home/theva/Documents/Ui-Automation-Project/WebUiAutomationFramework/target/surefire-reports/failure_screenshots/testVerifyCheckBox_03_04_2020_08_32_17.png'> <img src='/home/theva/Documents/Ui-Automation-Project/WebUiAutomationFramework/target/surefire-reports/failure_screenshots/testVerifyCheckBox_03_04_2020_08_32_17.png' height='100' width='100'/> </a>]
+2020-04-03 20:32:18 INFO  TestBase:46 - Closing Browser
+2020-04-03 20:32:19 INFO  TestBase:48 - Browser Closed
+2020-04-03 20:32:19 INFO  TestBase:25 - Initiate Browser
+2020-04-03 20:32:26 INFO  TestBase:31 - Browser Initiated
+2020-04-03 20:32:26 INFO  TestBase:41 - Test name: testVerifyDropDown
+2020-04-03 20:32:27 INFO  HomePage:38 - Link /dropdown Clicked
+2020-04-03 20:32:27 INFO  TestBase:53 - Executed test case name:testVerifyDropDown Execution Results : [TestResult name=testVerifyDropDown status=SUCCESS method=UiAutomationTrainingBasicTest.testVerifyDropDown()[pri:4, instance:tests.UiAutomationTrainingBasicTest@3d285d7e] output={null}]
+2020-04-03 20:32:27 INFO  TestBase:46 - Closing Browser
+2020-04-03 20:32:28 INFO  TestBase:48 - Browser Closed
+2020-04-03 20:32:28 INFO  TestBase:25 - Initiate Browser
+2020-04-03 20:32:39 INFO  TestBase:31 - Browser Initiated
+2020-04-03 20:32:39 INFO  TestBase:41 - Test name: testVerifyForgotPassword
+2020-04-03 20:32:39 INFO  HomePage:38 - Link /forgot_password Clicked
+2020-04-03 20:32:41 INFO  TestBase:53 - Executed test case name:testVerifyForgotPassword Execution Results : [TestResult name=testVerifyForgotPassword status=SUCCESS method=UiAutomationTrainingBasicTest.testVerifyForgotPassword()[pri:5, instance:tests.UiAutomationTrainingBasicTest@3d285d7e] output={null}]
+2020-04-03 20:32:41 INFO  TestBase:46 - Closing Browser
+2020-04-03 20:32:42 INFO  TestBase:48 - Browser Closed
+2020-04-03 20:32:42 INFO  TestBase:25 - Initiate Browser
+2020-04-03 20:32:51 INFO  TestBase:31 - Browser Initiated
+2020-04-03 20:32:51 INFO  TestBase:41 - Test name: testVerifyLogin
+2020-04-03 20:32:52 INFO  HomePage:38 - Link /login Clicked
+2020-04-03 20:32:55 INFO  TestBase:53 - Executed test case name:testVerifyLogin Execution Results : [TestResult name=testVerifyLogin status=SUCCESS method=UiAutomationTrainingBasicTest.testVerifyLogin()[pri:6, instance:tests.UiAutomationTrainingBasicTest@3d285d7e] output={null}]
+2020-04-03 20:32:55 INFO  TestBase:46 - Closing Browser
+2020-04-03 20:32:56 INFO  TestBase:48 - Browser Closed
+2020-04-03 20:32:56 INFO  TestBase:25 - Initiate Browser
+2020-04-03 20:33:05 INFO  TestBase:31 - Browser Initiated
+2020-04-03 20:33:05 INFO  TestBase:41 - Test name: testVerifyLogin
+2020-04-03 20:33:06 INFO  HomePage:38 - Link /login Clicked
+2020-04-03 20:33:07 INFO  TestBase:53 - Executed test case name:testVerifyLogin Execution Results : [TestResult name=testVerifyLogin status=SUCCESS method=UiAutomationTrainingBasicTest.testVerifyLogin(java.lang.String, java.lang.String)[pri:7, instance:tests.UiAutomationTrainingBasicTest@3d285d7e] output={null}]
+2020-04-03 20:33:07 INFO  TestBase:46 - Closing Browser
+2020-04-03 20:33:08 INFO  TestBase:48 - Browser Closed
+2020-04-03 20:33:08 INFO  TestBase:25 - Initiate Browser
+2020-04-03 20:33:17 INFO  TestBase:31 - Browser Initiated
+2020-04-03 20:33:17 INFO  TestBase:41 - Test name: testVerifyLogin
+2020-04-03 20:33:18 INFO  HomePage:38 - Link /login Clicked
+2020-04-03 20:33:20 INFO  TestBase:53 - Executed test case name:testVerifyLogin Execution Results : [TestResult name=testVerifyLogin status=SUCCESS method=UiAutomationTrainingBasicTest.testVerifyLogin(java.lang.String, java.lang.String)[pri:7, instance:tests.UiAutomationTrainingBasicTest@3d285d7e] output={null}]
+2020-04-03 20:33:20 INFO  TestBase:46 - Closing Browser
+2020-04-03 20:33:21 INFO  TestBase:48 - Browser Closed
+2020-04-03 20:33:21 INFO  TestBase:25 - Initiate Browser
+2020-04-03 20:33:29 INFO  TestBase:31 - Browser Initiated
+2020-04-03 20:33:29 INFO  TestBase:41 - Test name: testVerifyLogin
+2020-04-03 20:33:31 INFO  HomePage:38 - Link /login Clicked
+2020-04-03 20:33:32 INFO  TestBase:53 - Executed test case name:testVerifyLogin Execution Results : [TestResult name=testVerifyLogin status=SUCCESS method=UiAutomationTrainingBasicTest.testVerifyLogin(java.lang.String, java.lang.String)[pri:7, instance:tests.UiAutomationTrainingBasicTest@3d285d7e] output={null}]
+2020-04-03 20:33:32 INFO  TestBase:46 - Closing Browser
+2020-04-03 20:33:33 INFO  TestBase:48 - Browser Closed
+2020-04-03 20:37:41 INFO  TestBase:25 - Initiate Browser
+2020-04-03 20:37:48 INFO  TestBase:31 - Browser Initiated
+2020-04-03 20:37:48 INFO  TestBase:41 - Test name: testVerifyAlertAuths
+2020-04-03 20:37:49 INFO  TestBase:53 - Executed test case name:testVerifyAlertAuths Execution Results : [TestResult name=testVerifyAlertAuths status=SUCCESS method=UiAutomationTrainingMediumTest.testVerifyAlertAuths()[pri:1, instance:tests.UiAutomationTrainingMediumTest@302552ec] output={null}]
+2020-04-03 20:37:49 INFO  TestBase:46 - Closing Browser
+2020-04-03 20:37:50 INFO  TestBase:48 - Browser Closed
+2020-04-03 20:38:14 INFO  TestBase:25 - Initiate Browser
+2020-04-03 20:38:22 INFO  TestBase:31 - Browser Initiated
+2020-04-03 20:38:22 INFO  TestBase:41 - Test name: testVerifyBrokenImage
+2020-04-03 20:38:23 INFO  HomePage:38 - Link /broken_images Clicked
+2020-04-03 20:38:26 INFO  TestBase:53 - Executed test case name:testVerifyBrokenImage Execution Results : [TestResult name=testVerifyBrokenImage status=SUCCESS method=UiAutomationTrainingAdvanceTest.testVerifyBrokenImage()[pri:1, instance:tests.UiAutomationTrainingAdvanceTest@302552ec] output={null}]
+2020-04-03 20:38:26 INFO  TestBase:46 - Closing Browser
+2020-04-03 20:38:27 INFO  TestBase:48 - Browser Closed
+2020-04-03 20:38:27 INFO  TestBase:25 - Initiate Browser
+2020-04-12 23:35:05 INFO  TestBase:25 - Initiate Browser
+2020-04-12 23:35:16 INFO  TestBase:31 - Browser Initiated
+2020-04-12 23:35:16 INFO  TestBase:41 - Test name: testVerifyHomePage
+2020-04-12 23:35:17 INFO  HomePage:38 - Link /abtest Clicked
+2020-04-12 23:35:17 INFO  TestBase:55 - Executed test case name:testVerifyHomePage Execution Results : [TestResult name=testVerifyHomePage status=SUCCESS method=UiAutomationTrainingBasicTest.testVerifyHomePage()[pri:1, instance:tests.UiAutomationTrainingBasicTest@66ea810] output={null}]
+2020-04-12 23:35:17 INFO  TestBase:48 - Closing Browser
+2020-04-12 23:35:19 INFO  TestBase:50 - Browser Closed
+2020-04-12 23:35:19 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:02:51 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 06:02:51 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:03:06 INFO  TestBase:31 - Browser Initiated
+2020-07-03 06:03:06 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 06:03:09 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@646d64ab] output={null}]
+2020-07-03 06:03:09 INFO  TestBase:48 - Closing Browser
+2020-07-03 06:03:11 INFO  TestBase:50 - Browser Closed
+2020-07-03 06:03:31 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 06:03:31 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:03:50 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 06:03:50 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:04:01 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 06:04:01 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name={null} status=CREATED method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@646d64ab] output={null}]
+2020-07-03 06:04:01 INFO  TestBase:48 - Closing Browser
+2020-07-03 06:04:04 INFO  TestBase:50 - Browser Closed
+2020-07-03 06:04:38 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 06:04:38 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:04:51 INFO  TestBase:31 - Browser Initiated
+2020-07-03 06:04:51 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 06:04:54 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@2d8f65a4] output={null}]
+2020-07-03 06:04:54 INFO  TestBase:48 - Closing Browser
+2020-07-03 06:04:56 INFO  TestBase:50 - Browser Closed
+2020-07-03 06:07:19 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 06:07:19 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:07:33 INFO  TestBase:31 - Browser Initiated
+2020-07-03 06:07:33 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 06:07:37 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@646d64ab] output={null}]
+2020-07-03 06:07:37 INFO  TestBase:48 - Closing Browser
+2020-07-03 06:07:40 INFO  TestBase:50 - Browser Closed
+2020-07-03 06:08:40 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 06:08:40 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:08:54 INFO  TestBase:31 - Browser Initiated
+2020-07-03 06:08:54 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 06:08:58 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@646d64ab] output={null}]
+2020-07-03 06:08:58 INFO  TestBase:48 - Closing Browser
+2020-07-03 06:09:00 INFO  TestBase:50 - Browser Closed
+2020-07-03 06:11:57 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 06:11:57 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:12:10 INFO  TestBase:31 - Browser Initiated
+2020-07-03 06:12:10 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 06:12:12 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@59e5ddf] output={null}]
+2020-07-03 06:12:12 INFO  TestBase:48 - Closing Browser
+2020-07-03 06:12:14 INFO  TestBase:50 - Browser Closed
+2020-07-03 06:14:09 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 06:14:09 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:14:22 INFO  TestBase:31 - Browser Initiated
+2020-07-03 06:14:22 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 06:16:00 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@185a6e9] output={null}]
+2020-07-03 06:16:00 INFO  TestBase:48 - Closing Browser
+2020-07-03 06:16:02 INFO  TestBase:50 - Browser Closed
+2020-07-03 06:19:22 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 06:19:22 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:20:03 INFO  TestBase:31 - Browser Initiated
+2020-07-03 06:20:03 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 06:20:49 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@e320068] output={null}]
+2020-07-03 06:20:49 INFO  TestBase:48 - Closing Browser
+2020-07-03 06:20:50 INFO  TestBase:50 - Browser Closed
+2020-07-03 06:22:44 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 06:22:44 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:41:09 INFO  RegisterData:20 - row = 1 columns = 12
+2020-07-03 06:41:09 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:42:02 INFO  RegisterData:20 - row = 1 columns = 12
+2020-07-03 06:42:02 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:42:15 INFO  TestBase:31 - Browser Initiated
+2020-07-03 06:42:15 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 06:42:17 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@e320068] output={null}]
+2020-07-03 06:42:17 INFO  TestBase:48 - Closing Browser
+2020-07-03 06:42:19 INFO  TestBase:50 - Browser Closed
+2020-07-03 06:44:56 INFO  RegisterData:20 - row = 1 columns = 12
+2020-07-03 06:44:56 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:45:10 INFO  TestBase:31 - Browser Initiated
+2020-07-03 06:45:10 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 06:45:12 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@e320068] output={null}]
+2020-07-03 06:45:12 INFO  TestBase:48 - Closing Browser
+2020-07-03 06:45:14 INFO  TestBase:50 - Browser Closed
+2020-07-03 06:47:23 INFO  RegisterData:20 - row = 1 columns = 12
+2020-07-03 06:47:24 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:47:40 INFO  TestBase:31 - Browser Initiated
+2020-07-03 06:47:40 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 06:47:43 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@185a6e9] output={null}]
+2020-07-03 06:47:43 INFO  TestBase:48 - Closing Browser
+2020-07-03 06:47:45 INFO  TestBase:50 - Browser Closed
+2020-07-03 06:52:50 INFO  RegisterData:20 - row = 1 columns = 12
+2020-07-03 06:53:09 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 06:53:09 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:53:22 INFO  TestBase:31 - Browser Initiated
+2020-07-03 06:53:22 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 06:53:24 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@e320068] output={null}]
+2020-07-03 06:53:24 INFO  TestBase:48 - Closing Browser
+2020-07-03 06:53:26 INFO  TestBase:50 - Browser Closed
+2020-07-03 06:54:30 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 06:54:30 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:54:43 INFO  TestBase:31 - Browser Initiated
+2020-07-03 06:54:43 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 06:54:46 INFO  RegisterPage:87 - country Selected
+2020-07-03 06:54:46 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@e320068] output={null}]
+2020-07-03 06:54:46 INFO  TestBase:48 - Closing Browser
+2020-07-03 06:54:47 INFO  TestBase:50 - Browser Closed
+2020-07-03 06:58:10 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 06:58:10 INFO  TestBase:25 - Initiate Browser
+2020-07-03 06:58:23 INFO  TestBase:31 - Browser Initiated
+2020-07-03 06:58:23 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 06:58:26 INFO  RegisterPage:88 - country Selected
+2020-07-03 06:58:26 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@59e5ddf] output={null}]
+2020-07-03 06:58:26 INFO  TestBase:48 - Closing Browser
+2020-07-03 06:58:27 INFO  TestBase:50 - Browser Closed
+2020-07-03 08:34:14 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 08:34:14 INFO  TestBase:25 - Initiate Browser
+2020-07-03 08:34:28 INFO  TestBase:31 - Browser Initiated
+2020-07-03 08:34:28 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 08:34:31 INFO  RegisterPage:94 - country Selected
+2020-07-03 08:34:31 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@e320068] output={null}]
+2020-07-03 08:34:31 INFO  TestBase:48 - Closing Browser
+2020-07-03 08:34:32 INFO  TestBase:50 - Browser Closed
+2020-07-03 08:34:57 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 08:34:57 INFO  TestBase:25 - Initiate Browser
+2020-07-03 08:35:11 INFO  TestBase:31 - Browser Initiated
+2020-07-03 08:35:11 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 08:35:15 INFO  RegisterPage:94 - country Selected
+2020-07-03 08:35:15 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@e320068] output={null}]
+2020-07-03 08:35:15 INFO  TestBase:48 - Closing Browser
+2020-07-03 08:35:16 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:03:28 INFO  SignonData:21 - row = 1 columns = 2
+2020-07-03 09:03:28 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:03:41 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:03:41 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:03:41 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SignonTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SignonTest@e320068] output={null}]
+2020-07-03 09:03:41 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:03:43 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:06:34 INFO  SignonData:21 - row = 1 columns = 2
+2020-07-03 09:06:34 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:06:47 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:06:47 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:06:48 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SignonTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SignonTest@e320068] output={null}]
+2020-07-03 09:06:48 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:06:50 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:08:29 INFO  SignonData:21 - row = 1 columns = 2
+2020-07-03 09:08:29 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:08:42 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:08:42 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:08:43 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SignonTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SignonTest@e320068] output={null}]
+2020-07-03 09:08:43 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:08:44 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:09:12 INFO  SignonData:21 - row = 1 columns = 2
+2020-07-03 09:09:12 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:09:25 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:09:25 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:09:26 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SignonTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SignonTest@e320068] output={null}]
+2020-07-03 09:09:26 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:09:28 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:09:53 INFO  SignonData:21 - row = 1 columns = 2
+2020-07-03 09:09:53 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:10:09 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:10:09 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:10:10 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SignonTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SignonTest@e320068] output={null}]
+2020-07-03 09:10:10 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:10:12 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:11:02 INFO  SignonData:21 - row = 1 columns = 2
+2020-07-03 09:11:02 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:11:16 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:11:16 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:11:17 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SignonTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SignonTest@e320068] output={null}]
+2020-07-03 09:11:17 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:11:18 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:16:55 INFO  SignonData:21 - row = 1 columns = 2
+2020-07-03 09:16:55 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:17:09 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:17:09 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:17:10 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SignonTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SignonTest@e320068] output={null}]
+2020-07-03 09:17:10 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:17:12 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:19:29 INFO  SignonData:21 - row = 1 columns = 2
+2020-07-03 09:19:29 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:19:42 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:19:42 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:19:43 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SignonTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SignonTest@e320068] output={null}]
+2020-07-03 09:19:43 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:19:45 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:20:27 INFO  SignonData:21 - row = 1 columns = 2
+2020-07-03 09:20:27 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:20:40 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:20:40 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:20:41 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SignonTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SignonTest@e320068] output={null}]
+2020-07-03 09:20:41 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:20:43 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:23:37 INFO  SignonData:21 - row = 1 columns = 2
+2020-07-03 09:23:37 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:23:53 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:23:53 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:23:55 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SignonTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SignonTest@646d64ab] output={null}]
+2020-07-03 09:23:55 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:23:57 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:35:39 INFO  SigninData:21 - row = 1 columns = 2
+2020-07-03 09:35:39 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:35:53 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:35:53 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:35:54 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SigninTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SigninTest@646d64ab] output={null}]
+2020-07-03 09:35:54 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:35:56 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:36:49 INFO  SigninData:21 - row = 1 columns = 2
+2020-07-03 09:36:49 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:37:02 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:37:02 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:37:03 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SigninTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SigninTest@646d64ab] output={null}]
+2020-07-03 09:37:03 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:37:03 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:41:53 INFO  SigninData:21 - row = 1 columns = 2
+2020-07-03 09:41:53 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:42:24 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:42:24 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:42:27 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SigninTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SigninTest@646d64ab] output={null}]
+2020-07-03 09:42:27 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:42:27 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:43:47 INFO  SigninData:21 - row = 1 columns = 2
+2020-07-03 09:43:47 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:44:02 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:44:02 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:44:03 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SigninTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SigninTest@185a6e9] output={null}]
+2020-07-03 09:44:03 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:44:03 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:44:12 INFO  SigninData:21 - row = 1 columns = 2
+2020-07-03 09:44:12 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:45:41 INFO  SigninData:21 - row = 1 columns = 2
+2020-07-03 09:45:41 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:45:55 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:45:55 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:45:56 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SigninTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SigninTest@646d64ab] output={null}]
+2020-07-03 09:45:56 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:45:56 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:53:33 INFO  SigninData:21 - row = 1 columns = 2
+2020-07-03 09:53:33 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:53:47 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:53:47 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:53:49 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SigninTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SigninTest@646d64ab] output={null}]
+2020-07-03 09:53:49 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:53:49 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:54:49 INFO  SigninData:21 - row = 1 columns = 2
+2020-07-03 09:54:49 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:55:04 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:55:04 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:55:05 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SigninTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SigninTest@646d64ab] output={null}]
+2020-07-03 09:55:05 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:55:05 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:57:08 INFO  SigninData:21 - row = 1 columns = 2
+2020-07-03 09:57:09 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:57:23 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:57:23 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:57:24 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=SigninTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SigninTest@646d64ab] output={null}]
+2020-07-03 09:57:24 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:57:24 INFO  TestBase:50 - Browser Closed
+2020-07-03 09:59:13 INFO  SigninData:21 - row = 1 columns = 2
+2020-07-03 09:59:13 INFO  TestBase:25 - Initiate Browser
+2020-07-03 09:59:27 INFO  TestBase:31 - Browser Initiated
+2020-07-03 09:59:27 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 09:59:30 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=SUCCESS method=SigninTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SigninTest@646d64ab] output={null}]
+2020-07-03 09:59:30 INFO  TestBase:48 - Closing Browser
+2020-07-03 09:59:30 INFO  TestBase:50 - Browser Closed
+2020-07-03 10:04:20 INFO  SigninData:21 - row = 1 columns = 2
+2020-07-03 10:04:20 INFO  TestBase:25 - Initiate Browser
+2020-07-03 10:04:34 INFO  TestBase:31 - Browser Initiated
+2020-07-03 10:04:34 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 10:04:37 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=SUCCESS method=SigninTest.RegisterTest(java.lang.String, java.lang.String)[pri:1, instance:tests.Test.SigninTest@646d64ab] output={null}]
+2020-07-03 10:04:37 INFO  TestBase:48 - Closing Browser
+2020-07-03 10:04:37 INFO  TestBase:50 - Browser Closed
+2020-07-03 10:08:54 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 10:08:54 INFO  TestBase:25 - Initiate Browser
+2020-07-03 10:09:08 INFO  TestBase:31 - Browser Initiated
+2020-07-03 10:09:08 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 10:09:12 INFO  RegisterPage:94 - country Selected
+2020-07-03 10:09:12 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=FAILURE method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@646d64ab] output={null}]
+2020-07-03 10:09:12 INFO  TestBase:48 - Closing Browser
+2020-07-03 10:09:12 INFO  TestBase:50 - Browser Closed
+2020-07-03 10:16:09 INFO  RegisterData:20 - row = 1 columns = 11
+2020-07-03 10:16:09 INFO  TestBase:25 - Initiate Browser
+2020-07-03 10:16:23 INFO  TestBase:31 - Browser Initiated
+2020-07-03 10:16:23 INFO  TestBase:41 - Test name: RegisterTest
+2020-07-03 10:16:27 INFO  RegisterPage:94 - country Selected
+2020-07-03 10:16:29 INFO  TestBase:55 - Executed test case name:RegisterTest Execution Results : [TestResult name=RegisterTest status=SUCCESS method=RegisterTest.RegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:tests.Test.RegisterTest@646d64ab] output={null}]
+2020-07-03 10:16:29 INFO  TestBase:48 - Closing Browser
+2020-07-03 10:16:29 INFO  TestBase:50 - Browser Closed
